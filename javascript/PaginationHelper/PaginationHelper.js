@@ -47,7 +47,7 @@ class PaginationHelper {
 	}
 
 	/**
-	 * Splits a collection into chunks (pages) of a specified size using
+	 * Splits a collection into chunks (pages) of a specified size using a generator
 	 *
 	 * @generator
 	 * @param {Array} collection - List of items to be divided into chunks
